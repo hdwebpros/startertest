@@ -8,7 +8,7 @@ Test paragraph
 
 ## This is a heading
 
-What if I want to edit something inline and make it **strong**?
+What if I want to edit something [inline](https://happydog.digital) and make it **strong**?
 
 **This is a bold row? But I can't**
 
